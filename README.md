@@ -7,6 +7,8 @@ I enjoy a good challenge!
   <li><a href="https://github.com/DevJHennessy/Projects/tree/master/TwentyOneGame" target="_blank">Twenty One Game</a></li>
   <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/Challenge_13_WarCardGame" target="_blank">War Game</a></li>
   <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/Challenge_12_StudentCourses">Student Courses</a></li>
+  <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/Challenge_11_SimpleDarts">Dart Game</a></li>
+  <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/Challenge_09_PhunWithStrings">Fun with Strings</a></li>
 </ul>
 
 <strong>SQL:</strong>
