@@ -11,10 +11,10 @@ I enjoy a good challenge!
 
 <strong>SQL:</strong>
 <ul>
-  <li><a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Sql">Library Database</a></li>
+  <li>Built a <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Sql">Community Library Database</a></li>
 </ul>
 
 <strong>JavaScript/jQuery:</strong>
 <ul>
-  <li></li>
+  <li><a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Pizza%20Site">Pizza Site></a></li>
 </ul>
