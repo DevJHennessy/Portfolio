@@ -4,5 +4,5 @@ I enjoy a good challenge!
 
 <strong>C#:</strong>
 <ul>
-  <li><a href="https://github.com/DevJHennessy/Projects/tree/master/TwentyOneGame">Twenty One Game</a></li>
+  <li><a href="https://github.com/DevJHennessy/Projects/tree/master/TwentyOneGame" target="_blank">Twenty One Game</a></li>
 </ul>
