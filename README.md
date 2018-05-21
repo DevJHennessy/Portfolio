@@ -11,12 +11,12 @@ I enjoy a good challenge!
 
 <strong>SQL:</strong>
 <ul>
-  <li>Built a <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Sql">Community Library Database</a></li>
+  <li>A <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Sql">Community Library Database</a></li>
 </ul>
 
 <strong>JavaScript/jQuery:</strong>
 <ul>
-  <li>Built a <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Pizza%20Site">Pizza Website</a> with a shopping cart calculator.</li>
+  <li>A <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Pizza%20Site">Pizza Website</a> with a shopping cart calculator.</li>
 </ul>
 
 <strong>HTML/CSS</strong>
