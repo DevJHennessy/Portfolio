@@ -16,5 +16,10 @@ I enjoy a good challenge!
 
 <strong>JavaScript/jQuery:</strong>
 <ul>
-  <li>Built a <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Pizza%20Site">Pizza Site</a> with a shopping cart calculator.</li>
+  <li>Built a <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Pizza%20Site">Pizza Website</a> with a shopping cart calculator.</li>
+</ul>
+
+<strong>HTML/CSS</strong>
+<ul>
+  <li><a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Space%20Station%20Site">Space Station Website</a></li>
 </ul>
