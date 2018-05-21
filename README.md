@@ -1,4 +1,4 @@
-<strong>My Portfolio: A compilation of major coding projects by John Hennessy.</strong>
+<strong>My portfolio of major coding projects by John Hennessy.</strong>
 #
 I enjoy a good challenge!
 
