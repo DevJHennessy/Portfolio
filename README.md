@@ -1,4 +1,4 @@
-<strong>My portfolio of major coding projects by John Hennessy.</strong>
+<strong>John Hennessy's Portfolio.</strong>
 #
 I enjoy a good challenge!
 
@@ -30,3 +30,5 @@ I enjoy a good challenge!
 <ul>
   <li><a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Space%20Station%20Site">Space Station Website</a></li>
 </ul>
+
+<strong>Projects for Outside Clients</strong>
