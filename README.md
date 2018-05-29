@@ -11,7 +11,7 @@ I enjoy a good challenge!
   <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/Challenge_09_PhunWithStrings">Fun with Strings</a></li>
 </ul>
 
-<strong>ASP.NET MVC</strong>
+<strong>ASP.NET MVC:</strong>
 <ul>
   <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/MVC5_1_Challenge_MyComicBooks/FirstChallenge">Comic Book Challenge</a></li>
 </ul>
@@ -26,9 +26,12 @@ I enjoy a good challenge!
   <li>A <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Pizza%20Site">Pizza Website</a> with a shopping cart calculator.</li>
 </ul>
 
-<strong>HTML/CSS</strong>
+<strong>HTML/CSS:</strong>
 <ul>
   <li><a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Space%20Station%20Site">Space Station Website</a></li>
 </ul>
 
-<strong>Projects for Outside Clients</strong>
+<strong>Projects for Outside Clients:</strong>
+<ul>
+  <li></li>
+</ul>
