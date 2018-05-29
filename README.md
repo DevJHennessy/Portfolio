@@ -1,5 +1,5 @@
 <h1><strong>John Hennessy's Portfolio</strong></h1>
-#
+
 <p>I enjoy a good challenge!</p>
 
 <strong>C#:</strong>
