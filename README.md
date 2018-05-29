@@ -1,4 +1,4 @@
-<strong>John Hennessy's Portfolio.</strong>
+<h1><strong>John Hennessy's Portfolio.</strong></h1>
 #
 I enjoy a good challenge!
 
