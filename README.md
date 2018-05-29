@@ -11,6 +11,11 @@ I enjoy a good challenge!
   <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/Challenge_09_PhunWithStrings">Fun with Strings</a></li>
 </ul>
 
+<strong>ASP.NET MVC</strong>
+<ul>
+  <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/MVC5_1_Challenge_MyComicBooks/FirstChallenge">Comic Book Challenge</a></li>
+</ul>
+
 <strong>SQL:</strong>
 <ul>
   <li>A <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Sql">Community Library Database</a></li>
