@@ -1,6 +1,6 @@
 <h1><strong>John Hennessy's Portfolio</strong></h1>
 
-<p>I enjoy a good challenge! And coding presents unique challenges with various problems to solve every day. Here are some of the challenges I have solved.</p>
+<p>I enjoy a good challenge! And coding presents unique challenges with various problems to solve every day. Here are some of the challenges I have solved and coding projects I have completed.</p>
 
 <strong>C#:</strong>
 <ul>
