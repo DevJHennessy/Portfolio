@@ -38,5 +38,5 @@
 
 <strong>Projects for Outside Clients:</strong>
 <ul>
-  <li></li>
+  <li><a href="https://github.com/DevJHennessy/PortlandDogRunner">Website for Portland Dog Runner</a></li>
 </ul>
