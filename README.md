@@ -24,6 +24,7 @@
 <strong>JavaScript/jQuery:</strong>
 <ul>
   <li>A <a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Pizza%20Site">Pizza Website</a> with a shopping cart calculator.</li>
+  <li><a href="https://github.com/DevJHennessy/JavaScript-Blackjack-Game"><JS Blackjack Game</a></li>
 </ul>
 
 <strong>HTML/CSS:</strong>
