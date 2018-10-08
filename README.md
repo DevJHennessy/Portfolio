@@ -32,6 +32,11 @@
   <li><a href="https://github.com/DevJHennessy/Tech-Academy-Projects/tree/master/Space%20Station%20Site">Space Station Website</a></li>
 </ul>
 
+<strong>Angular:</strong>
+<ul>
+  <li><a href="https://github.com/DevJHennessy/AngularSampleApplication">Angular Single-Page Application Demo</a></li>
+</ul>
+
 <strong>Unity:</strong>
 <ul>
   <li><a href="https://github.com/DevJHennessy/Unity/tree/master/ProtoDemo">2D Demo Game</a></li>
