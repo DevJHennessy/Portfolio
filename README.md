@@ -34,7 +34,7 @@
 
 <strong>Angular:</strong>
 <ul>
-  <li><a href="https://github.com/DevJHennessy/AngularSampleApplication">Angular Single-Page Application Demo</a></li>
+  <li><a href="https://github.com/DevJHennessy/AngularSampleApplication">Angular Sample Application</a></li>
 </ul>
 
 <strong>Unity:</strong>
