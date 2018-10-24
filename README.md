@@ -34,7 +34,7 @@
 
 <strong>LESS/SASS:</strong>
 <ul>
-  <li><a href="https://github.com/DevJHennessy/SimpleLESSExample">A simple Leaner Style Sheet example</a></li>
+  <li><a href="https://github.com/DevJHennessy/SimpleLESSExample">A simple Leaner Style Sheets example</a></li>
 </ul>
 
 <strong>Angular:</strong>
