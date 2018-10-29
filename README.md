@@ -42,6 +42,11 @@
   <li><a href="https://github.com/DevJHennessy/AngularSampleApplication">Angular Sample Application</a></li>
 </ul>
 
+<strong>Unit Testing:</strong>
+<ul>
+  <li><a href="https://github.com/DevJHennessy/Projects/tree/master/CharacterCount">Algorithm that counts character repition in a string with NUnit tests</a></li>
+</ul>
+
 <strong>Unity:</strong>
 <ul>
   <li><a href="https://github.com/DevJHennessy/Unity/tree/master/ProtoDemo">2D Demo Game</a></li>
