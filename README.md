@@ -45,6 +45,7 @@
 <strong>Unit Testing:</strong>
 <ul>
   <li><a href="https://github.com/DevJHennessy/Projects/tree/master/CharacterCount">Algorithm that counts character repition in a string with NUnit tests</a></li>
+  <li><a href="https://github.com/DevJHennessy/Projects/tree/master/InsertionSortAlg">Insertion Sort algorithm with NUnit tests</a></li>
 </ul>
 
 <strong>Unity:</strong>
