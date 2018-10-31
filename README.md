@@ -46,7 +46,7 @@
 <strong>Unit Testing:</strong>
 <ul>
   <li><a href="https://github.com/DevJHennessy/Projects/tree/master/CharacterCount">Algorithm that counts character repition in a string with NUnit test</a></li>
-  <li><a href="https://github.com/DevJHennessy/Projects/tree/master/InsertionSortAlg">Insertion Sort algorithm with NUnit tests</a></li>
+  <li><a href="https://github.com/DevJHennessy/Projects/tree/master/InsertionSortAlg">Insertion Sort algorithm with two NUnit tests</a></li>
   <li><a href="https://github.com/DevJHennessy/Projects/tree/master/Palindrome">Palindrome Exercise with NUnit test</a></li>
 </ul>
 
