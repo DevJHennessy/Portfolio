@@ -40,7 +40,7 @@
 
 <strong>Responsive Web Design:</strong>
 <ul>
-  <li>Several web site <a href="https://github.com/DevJHennessy/Responsive_Web_Design">examples</a> that demonstrate Column Layout, Flexbox, and CSS Grids. All use SASS.</li>
+  <li>Several website <a href="https://github.com/DevJHennessy/Responsive_Web_Design">examples</a> that demonstrate Column Layout, Flexbox, and CSS Grids. All use SASS.</li>
 </ul>
 
 <strong>Angular:</strong>
