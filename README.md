@@ -41,6 +41,7 @@
 <strong>Responsive Web Design:</strong>
 <ul>
   <li>Several website <a href="https://github.com/DevJHennessy/Responsive_Web_Design">examples</a> that demonstrate Column Layout, Flexbox, and CSS Grids. All use SASS.</li>
+  <li>Website <a href="https://github.com/DevJHennessy/Responsive_Design_Navigation">examples</a> that employ different mobile-first navigation techniques. All use SASS.</li>
 </ul>
 
 <strong>Angular:</strong>
