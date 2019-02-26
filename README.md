@@ -2,7 +2,7 @@
 
 <p>I enjoy a good challenge! And coding presents unique challenges with various problems to solve every day. Here are some of the challenges I have solved and coding projects I have completed.</p>
 
-<h3>Frontend Development:</h3>
+<h3>Frontend Development</h3>
 
 <h4>HTML/CSS:</h4>
 <ul>
