@@ -2,7 +2,7 @@
 
 <p>I enjoy a good challenge! And coding presents unique challenges with various problems to solve every day. Here are some of the challenges I have solved and coding projects I have completed.</p>
 
-<h3>C#:</h3>
+<h4>C#:</h4>
 <ul>
   <li><a href="https://github.com/DevJHennessy/Projects/tree/master/TwentyOneGame" target="_blank">Twenty One Game</a></li>
   <li><a href="https://github.com/DevJHennessy/CSharp_MVC_Challenges_pt2/tree/master/Challenge_13_WarCardGame" target="_blank">War Game</a></li>
