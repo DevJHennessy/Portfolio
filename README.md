@@ -2,6 +2,8 @@
 
 <p>I enjoy a good challenge! And coding presents unique challenges with various problems to solve every day. Here are some of the challenges I have solved and coding projects I have completed.</p>
 
+<p><strong>Note:</strong> The best way to view these examples is to either clone the repository or download the files and open them on your local machine. The GitHub Previewer is not fully functioning and you may come across a few errors.</p>
+
 <h3>Frontend Development</h3>
 
 <h4>HTML/CSS:</h4>
