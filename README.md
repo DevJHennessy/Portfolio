@@ -26,8 +26,8 @@
 
 <h4>WordPress:</h4>
 <ul>
+  <li><a href="https://github.com/DevJHennessy/PDR-WordPress">WordPress site</a> for a local PDX company, Portland Dog Runner.</li>
   <li>WordPress <a href="https://devjhennessy-example001.000webhostapp.com/">example</a> site designed on localhost and uploaded with FileZilla to free webhost. I made a child theme of the free Hestia theme for this demo.</li>
-  <li><a href="https://github.com/DevJHennessy/PDR-WordPress">WordPress site</a> for a local PDX company, Portland Dog Runner. </li>
 </ul>
 
 <h4>JavaScript/jQuery:</h4>
