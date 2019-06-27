@@ -22,6 +22,7 @@
   <li>Several website <a href="https://github.com/DevJHennessy/Responsive_Web_Design">examples</a> that demonstrate Column Layout, Flexbox, and CSS Grids. All use SASS.</li>
   <li>Website <a href="https://github.com/DevJHennessy/Responsive_Design_Navigation">examples</a> that employ different mobile-first navigation techniques. All use SASS.</li>
   <li>Six <a href="https://github.com/DevJHennessy/Responsive_Design_Images">example sites</a> that show how to use several responsive image techniques, such as Art Direction, Lazy Loading, changing image size based on device pixel density, how to change image sizes based on browser window width, and how to even switch image sizes in a slider depending on window width. All use SASS.</li>
+  <li>A mobile-first, responsive <a href="https://github.com/DevJHennessy/MilwaukieDentistry">dentist website</a> that I built from scratch.</li>
 </ul>
 
 <h4>WordPress:</h4>
